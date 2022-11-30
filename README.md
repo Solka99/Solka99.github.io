@@ -11,7 +11,7 @@ Saffron gives the rice its color, and the base should be left to crisp into a mo
 Where to try? La Matandeta near Albufera, Valencia
 La Matandeta, Carretera, 46910 Alfafar Spain;
 
-![Paella](https://www.google.com/url?sa=i&url=https%3A%2F%2Fiamafoodblog.com%2Fpaella-recipe%2F&psig=AOvVaw3vC2BxJikKZAJfqOb5MGxW&ust=1669900879839000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCOqtj_1fsCFQAAAAAdAAAAABAI)
+![Paella](paella-9174.jpg)
 2. Patatas bravas
 
 Foodie and gastronomical guide Diego Gil takes us on a journey to see the influences of the Moors on Spanish food.
