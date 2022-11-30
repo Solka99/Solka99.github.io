@@ -22,7 +22,7 @@ One theory holds that the dirtier the bar, the better the bravas.
 "Intoxication and rowdiness are rare. Key factors are the social sharing of food, and the opportunity to try a lot of different things in one meal. In short, tapas are a way of life."
 Where to try? La Taverna del Clínic, Barcelona
 La Taverna del Clinic, Rossello, 155, 08035 Barcelona Spain;
-![Patatas bravas](paella-9174.jpg)
+![Patatas bravas](patatas-bravas-featured.jpg)
 3. Gazpacho
 Image credit: Brindisa.com
 Is this the world's most famous cold soup?
