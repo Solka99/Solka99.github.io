@@ -4,15 +4,14 @@ In recent years, however, people have come to celebrate the extraordinary flavor
 High-profile chefs such as Ferran Adria, mastermind of the now-closed El Bulli restaurant, and the Roca brothers, founders of the El Celler de Can Roca, have brought Spain's alta cocina international acclaim.
 But the heart of Spanish cooking remains in its rustic, homespun nature, a legacy of a time when hard-pressed Spaniards had to work the land for everything it would offer.
 These 14 dishes -- from seafood and meat to rice and pastries -- are essential meals when you travel to Spain.
-1. Paella Valenciana
+#1. Paella Valenciana
 Paella is perhaps the most famous Spanish dish of all, and certainly one of the most abused. Authentic paella originates from the region around Valencia, and comes in two varieties: Paella Valenciana, with rabbit and chicken; and seafood paella.
 Saffron gives the rice its color, and the base should be left to crisp into a mouth-watering black crust, called the socarrat. Always eaten at lunchtime.
 Where to try? La Matandeta near Albufera, Valencia
 La Matandeta, Carretera, 46910 Alfafar Spain;
 
 ![Paella](paella-9174.jpg =250x250)
-2. Patatas bravas
-
+#2. Patatas bravas
 
 Foodie and gastronomical guide Diego Gil takes us on a journey to see the influences of the Moors on Spanish food.
 A staple among the small dishes that make up a classic tapas menu, patatas bravas -- "brave potatoes" -- is named for its spicy sauce, rare in a land that generally shuns fiery food.
@@ -21,10 +20,8 @@ One theory holds that the dirtier the bar, the better the bravas.
 "Tapas originated in southern Spain and is an adaptation to the social culture of eating and drinking outside the home, and fulfills the same social function as the English public house and other similar institutions," explains Shawn Hennessey, who runs tapas tours of Seville.
 "It's important to note that the tapeo (tapas crawl) is not primarily a 'drinking culture' thing -- it's oriented to friends and family with a communal atmosphere.
 "Intoxication and rowdiness are rare. Key factors are the social sharing of food, and the opportunity to try a lot of different things in one meal. In short, tapas are a way of life."
-Where to try? La Taverna del Clínic, Barcelona
-La Taverna del Clinic, Rossello, 155, 08035 Barcelona Spain;
 ![Patatas bravas](patatas-bravas-featured.jpg =250x250)
-3. Gazpacho
+#3. Gazpacho
 Image credit: Brindisa.com
 Is this the world's most famous cold soup?
 courtesy Brindisa.com
@@ -33,19 +30,19 @@ Its principal ingredients, aside from tomato, are peppers, garlic, bread and lot
 Where to try? Enrique Becerra, Seville
 Enrique Becerra, Gamazo, 2., 41001 Seville Spain;
 
-4. Pimientos de Padron
+#4. Pimientos de Padron
 A common dish on tapas menus, pimientos de Padron are green peppers that hail originally from the town of that name in Galicia, in Spain's lush, rainy northwest.
 Pimientos de Padron are fried and served with a deep sprinkling of salt. Though generally sweet and mild, their fame stems from the fact that the occasional pepper will be fiery hot -- lending a Russian Roulette element of surprise to eating them.
 Where to try? Bierzo Enxebre, Santiago de Compostela
 Bierzo Enxebre, Rua Troia 10, 15704, Santiago de Compostela Spain;
 
-5. Fideuà
+#5. Fideuà
 Less well known to tourists, fideuà is a type of Spanish pasta similar to vermicelli. It's popular in Catalonia and Valencia in seafood dishes that rival paella for their taste and intricacy.
 Fideuà is typically cooked in a paella dish.
 Where to try? El Rall, Valencia
 El Rall, Calle Tundidores 2, 46001 Valencia Spain;
 
-6. Jamón
+#6. Jamón
 Image credit: Brindisa.com
 Pork perfection: Jamon Iberico from black pigs.
 courtesy Brindisa.com
@@ -60,17 +57,17 @@ Which country has the best food?
 Where to try? Museo del Jamón, Madrid
 Museo del Jamon, Calle Gran Via 72, 28015 Madrid Spain;
 
-7. Tortilla
+#7. Tortilla
 The humble Spanish omelet can be made with chorizo, peppers and onions, among other ingredients, but purists will tell you it should only contain potatoes and eggs.
 The potatoes are diced and lightly fried before being added to the egg mixture and fried on a high heat; the trickiest part is when you have to flip the pan over to turn the tortilla.
 If you get it right, someone should shout "Olé!;" get it wrong and you'll have gooey half-cooked tortilla everywhere.
 Where to try? Any self-respecting tapas bar
-8. Churros
+#8. Churros
 Churros are a popular snack made from fried dough pastry, cut into sausage shapes and doused in sugar. They're a favorite at fiestas, or street parties, when they're sold by roadside vendors. Dipping them in hot melted chocolate is pretty much the law.
 Where to try? San Ginés, Madrid
 Iglesia San Gines, Calle Arenal 13 Puerta del Sol, 28013 Madrid Spain;
 
-9. Croquetas
+#9. Croquetas
 Another typical item on a tapas menu, croquetas are tubes of bechamel sauce encased in fried breadcrumbs, but a lot more tasty than that sounds.
 Jamón croquetas and salt cod croquetas are common varieties. They're tricky to make and are perhaps best enjoyed at a tapas bar, along with a cold beer.
 Where to try? Casa Julio, Madrid
