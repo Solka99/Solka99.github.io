@@ -23,7 +23,7 @@ Is this the world's most famous cold soup?
 courtesy Brindisa.com
 This tomato-based Andalusian soup is most famous for being served cold. This can be quite a shock for those who aren't expecting it, but in the searing heat of a Seville summer, the attraction becomes clear.
 Its principal ingredients, aside from tomato, are peppers, garlic, bread and lots of olive oil.
-![Gazpacho](download.jpg)
+![Gazpacho](gazpacho.webp)
 
 
 #4. Pimientos de Padron
