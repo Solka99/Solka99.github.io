@@ -13,6 +13,7 @@ La Matandeta, Carretera, 46910 Alfafar Spain;
 ![Paella](paella-9174.jpg)
 2. Patatas bravas
 
+
 Foodie and gastronomical guide Diego Gil takes us on a journey to see the influences of the Moors on Spanish food.
 A staple among the small dishes that make up a classic tapas menu, patatas bravas -- "brave potatoes" -- is named for its spicy sauce, rare in a land that generally shuns fiery food.
 The potatoes are cubed and shallow fried and served the same everywhere. The sauce can come in any number of ways, from spicy ketchup to garlic mayonnaise with a dusting of pimiento (smoked paprika), or both.
