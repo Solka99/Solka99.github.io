@@ -10,7 +10,7 @@ Saffron gives the rice its color, and the base should be left to crisp into a mo
 Where to try? La Matandeta near Albufera, Valencia
 La Matandeta, Carretera, 46910 Alfafar Spain;
 
-![Paella](paella-9174.jpg)
+![Paella](paella-9174.jpg =250x250)
 2. Patatas bravas
 
 
@@ -23,7 +23,7 @@ One theory holds that the dirtier the bar, the better the bravas.
 "Intoxication and rowdiness are rare. Key factors are the social sharing of food, and the opportunity to try a lot of different things in one meal. In short, tapas are a way of life."
 Where to try? La Taverna del Clínic, Barcelona
 La Taverna del Clinic, Rossello, 155, 08035 Barcelona Spain;
-![Patatas bravas](patatas-bravas-featured.jpg)
+![Patatas bravas](patatas-bravas-featured.jpg =250x250)
 3. Gazpacho
 Image credit: Brindisa.com
 Is this the world's most famous cold soup?
