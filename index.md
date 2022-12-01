@@ -10,7 +10,7 @@ Saffron gives the rice its color, and the base should be left to crisp into a mo
 Where to try? La Matandeta near Albufera, Valencia
 La Matandeta, Carretera, 46910 Alfafar Spain;
 
-![Paella](paella-9174.jpg =250x250)
+![Paella](paella-9174.jpg)
 #2. Patatas bravas
 
 Foodie and gastronomical guide Diego Gil takes us on a journey to see the influences of the Moors on Spanish food.
@@ -20,7 +20,7 @@ One theory holds that the dirtier the bar, the better the bravas.
 "Tapas originated in southern Spain and is an adaptation to the social culture of eating and drinking outside the home, and fulfills the same social function as the English public house and other similar institutions," explains Shawn Hennessey, who runs tapas tours of Seville.
 "It's important to note that the tapeo (tapas crawl) is not primarily a 'drinking culture' thing -- it's oriented to friends and family with a communal atmosphere.
 "Intoxication and rowdiness are rare. Key factors are the social sharing of food, and the opportunity to try a lot of different things in one meal. In short, tapas are a way of life."
-![Patatas bravas](patatas-bravas-featured.jpg =250x250)
+![Patatas bravas](patatas-bravas-featured.jpg)
 #3. Gazpacho
 Image credit: Brindisa.com
 Is this the world's most famous cold soup?
