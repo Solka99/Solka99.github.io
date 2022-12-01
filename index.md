@@ -9,6 +9,7 @@ Paella is perhaps the most famous Spanish dish of all, and certainly one of the 
 Saffron gives the rice its color, and the base should be left to crisp into a mouth-watering black crust, called the socarrat. Always eaten at lunchtime.
 
 ![Paella](paella-9174.jpg)
+
 #2. Patatas bravas
 
 Foodie and gastronomical guide Diego Gil takes us on a journey to see the influences of the Moors on Spanish food.
@@ -16,6 +17,7 @@ A staple among the small dishes that make up a classic tapas menu, patatas brava
 The potatoes are cubed and shallow fried and served the same everywhere. The sauce can come in any number of ways, from spicy ketchup to garlic mayonnaise with a dusting of pimiento (smoked paprika), or both.
 One theory holds that the dirtier the bar, the better the bravas.
 ![Patatas bravas](patatas-bravas-featured.jpg)
+
 #3. Gazpacho
 Is this the world's most famous cold soup?
 courtesy Brindisa.com
